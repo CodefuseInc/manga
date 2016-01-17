@@ -1,0 +1,10 @@
+{
+  "name": "Manga",
+  "description": "An awesome elearning CMS",
+  "repository": "https://bitbucket.org/codefuseinc/manga",
+  "logo": "http://www.bitbucket.org/account/user/codefuseinc/projects/Manga/avatar/192?ts=1452405609",
+  "keywords": ["meteor", "elearning", "cms","scorm", "tincan"],
+  "addons": [
+    "mongolab"
+  ]
+}
