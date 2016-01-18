@@ -12,7 +12,6 @@ iron:router
 raix:handlebar-helpers
 audit-argument-checks
 fastclick
-zimme:iron-router-active
 manuelschoebel:ms-seo
 browser-policy
 natestrauser:animate-css
@@ -49,3 +48,6 @@ tap:i18n
 aldeed:autoform
 sanjo:jasmine
 alanning:roles
+zimme:active-route
+codefuse:manga-core
+codefuse:manga-users
